@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#main{
+    height: 100vh;
+    background: url(/images/image2.jpg) no-repeat center;
+    background-size: cover;
+}
+
+#mainHeader{
+
+    background-color: #ccc;
+    padding: 10px;
+
+}
+
+#page{
+    float: left;
+    width: 15%;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu{
+    float: right;
+    width: 60%;
+}
+
+.menu-items{
+    float: left;
+    margin-left: 8px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.menu menu-items Get Started{
+    background-color: blue;
+}
+.clear{
+    clear: both;
+} 
+
+h3
+{
+  width: 400px;
+  /* margin: auto; */
+  text-align: justify;
+  /* padding: 10px 20px 10px 20px; */
+  margin: 100px auto 100px auto;
+}
+.div
+{
+  width: 300px;
+  margin: auto;
+  text-align: justify;
+  /* padding: 10px 20px 10px 20px; */
+  /* margin: 100px auto 100px auto; */
+
+}
