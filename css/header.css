@@ -19,6 +19,7 @@
 }
 
 #page{
+    color: rgb(5, 49, 96);
     float: left;
     width: 15%;
     padding: 10px;
@@ -36,28 +37,105 @@
     padding: 10px;
     background-color: aliceblue;
 }
-
-.menu menu-items Get Started{
-    background-color: blue;
-}
 .clear{
     clear: both;
 } 
 
-h3
+div h2
 {
-  width: 400px;
-  /* margin: auto; */
-  text-align: justify;
-  /* padding: 10px 20px 10px 20px; */
-  margin: 100px auto 100px auto;
-}
-.div
-{
-  width: 300px;
-  margin: auto;
-  text-align: justify;
-  /* padding: 10px 20px 10px 20px; */
-  /* margin: 100px auto 100px auto; */
+  padding-top: 150px;
+  text-align:center;
+  color: rgb(5, 49, 96);
 
+}
+div h5
+{
+  padding-top: 10px;
+  text-align:center;
+  color:rgb(169, 155, 155); 
+}
+div h6
+{
+  padding-top: 10px;
+  text-align:center;
+  color:rgb(28, 26, 26); 
+  /* background-color: blue; */
+}
+.card-body 
+{
+    width: 180px;
+    height: 150px;
+    padding-left: 20px;
+    padding-right: 10px;
+    /* border: 2px solid #ccc; */
+    background-color: #fff;
+    margin: 40px auto;
+    text-align: left;
+    float: left;
+    /* padding: 20px 10px; */
+  }
+.card div h4{
+    color: rgb(5, 49, 96);
+    text-align: left;
+    padding-top: 20px;
+}
+
+}
+.card div div{
+    padding-top: 10px;
+    text-align: left;
+}
+
+.card{
+    padding-left: 250px;
+}
+
+.card-body1{
+    width: 180px;
+    height: 150px;
+    padding-left: 20px;
+    padding-right: 10px;
+    /* border: 2px solid #ccc; */
+    background-color: #fff;
+    margin: 40px auto;
+    margin-left: 15px;
+    text-align: left;
+    float: left;
+}
+.card-body2{
+    width: 180px;
+    height: 150px;
+    padding-left: 20px;
+    padding-right: 10px;
+    /* border: 2px solid #ccc; */
+    background-color: #fff;
+    margin: 40px auto;
+    margin-left: 15px;
+    text-align: left;
+    float: left;
+}
+.card-body3{
+    width: 180px;
+    height: 150px;
+    padding-left: 20px;
+    padding-right: 10px;
+    /* border: 2px solid #ccc; */
+    background-color: #fff;
+    margin: 40px auto;
+    margin-left: 15px;
+    text-align: left;
+    float: left;
+}
+
+.card-body div{
+    padding-top: 10px;
+}
+.card-body1 div{
+    padding-top: 10px;
+}
+.card-body2 div{
+    padding-top: 10px;
+}
+.card-body3 div{
+    padding-top: 10px;
 }
