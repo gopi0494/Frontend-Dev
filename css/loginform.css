@@ -4,9 +4,19 @@
     box-sizing: border-box;
     font-family: 'Times New Roman', Times, serif
 }
-
 #main{
+    height: 100vh;
+    background-image: url(/images/login3.jpg);
+    background-size: cover;
+}
+.card{
 
-    background-image: url(/images/login.jpg) no-repeat center;
+    background-color: #fff;
+    width: 40%;
+    height: 40vh;
+    /* display: flex; */
+    text-align: center;
+    padding: 40px;
+    margin: auto;
 
 }
